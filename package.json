@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "algoliasearch": "^3.29.0",
+    "mysql": "^2.16.0"
+  }
+}
